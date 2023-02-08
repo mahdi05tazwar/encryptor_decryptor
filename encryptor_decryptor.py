@@ -23,4 +23,4 @@ class Encryptor_Decryptor():
             file.write(newstr)
 
 en1 = Encryptor_Decryptor("sample.txt")
-en1.Decrypt()
+en1.Encrypt()
